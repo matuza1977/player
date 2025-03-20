@@ -1,4 +1,3 @@
-
 let player;
 let videoList = [];
 
